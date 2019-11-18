@@ -1,0 +1,49 @@
+Q.Difference between tuple and list?
+List-	1.We can modify in a list.
+	2.We can append another number in a list.
+	3.List defin by []
+Tuple-	1.We can't modify in a tuple.
+	2.We can't add anu number number in a tuple.
+	3.define by()
+	4.If we want to change in tuple for that we have to change in alist then we can modify. 
+11. If '×' means '-'. '÷' means '×', '-' means '+' and '+' means '÷', then what is the value
+of 13 ÷ 18 + 3 - 23 ×17?
+	according to bodmass-
+		13*18%3*23-17
+		234%3+23-17
+		78+23-17
+		101-17
+		ans.-84
+12. 20 % of 2 is equal to
+a. 20
+b. 4
+c. 0.4
+d. 0.04
+solve:-2*20/100
+ans.-0.4
+
+
+13. The mean weight of a group of seven boys is 56 kg. The individual weights (in
+kg) of six of them are 52, 57, 55, 60, 59 and 55. Find the weight of the seventh
+boy.
+let: weight of 7th boy=x
+	all boys age average=56
+	then, 
+		52+55+55+60+59+55+x/7=56
+		338+x=56*7
+		x=392-338
+		ans:-54
+14. If x can finish a job in 4 hours and y can finish the same job in 8 hours
+independently, then they together will finish the job in
+a. 140 minutes
+b. 120 minutes
+c. 160 minutes
+d. 150 minutes
+Solve:-Work of "a" in a day=1/4
+	Work of "b" in a day=1/8
+	a and b work in a day=1/4+1/8
+	3/8hours.
+	work in minuts=3/8*1/60
+	ans:-160m.
+
+	
